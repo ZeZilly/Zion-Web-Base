@@ -19,7 +19,7 @@
 
 ```bash
 # Clone repository
-git clone git@github.com:ZeZilly/Zion-Web-Base.git
+git clone git@github.com:Zekiog/Zion-Web-Base.git
 cd Zion-Web-Base
 
 # Install dependencies
@@ -83,7 +83,7 @@ zion-web-base/
 
 ## 📞 Repository
 
-[github.com/ZeZilly/Zion-Web-Base](https://github.com/ZeZilly/Zion-Web-Base)
+[github.com/Zekiog/Zion-Web-Base](https://github.com/Zekiog/Zion-Web-Base)
 
 ---
 
